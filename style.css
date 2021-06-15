@@ -47,3 +47,7 @@ mark{
     margin: 15px;
 }
 
+canvas{
+    border:5px solid white;
+    border-radius :25px;  
+}
