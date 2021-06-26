@@ -49,5 +49,6 @@ mark{
 
 canvas{
     border:5px solid white;
-    border-radius :25px;  
+    border-radius :25px;
+    box-shadow: 18px 18px 5px turquoise;
 }
